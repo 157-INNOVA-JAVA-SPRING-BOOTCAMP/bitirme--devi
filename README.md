@@ -1,2 +1,2 @@
-# bitirme--devi
+# bitirme ödevi
 BİTİRME ÖDEVİ
